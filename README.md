@@ -4,10 +4,15 @@ Front end project for Demo
 # How to install
 -
 Installation of npm is required - 
+-
 For windows : You may download it from https://nodejs.org/en/download/
+-
 For mac : You may run the following command : 'brew install node'
+-
 In this demo, I'm using Quasar framework as the CSS framework - Command to install quasar : 'npm install -g @quasar/cli'
+-
 After cloning the repository, you may open terminal & run 'npm install' in the directory
+-
 To start the quasar server, you may run 'quasar dev'
 
 ![alt text](https://i.ibb.co/601VPjj/Screenshot-2020-10-26-at-10-46-28-PM.png)
@@ -60,3 +65,8 @@ User role
 username : user@gmail.com
 
 password : 123qwe!@#QWE
+
+# LIMITATIONS
+Due to the time limitations I have made certain shortcuts such as :
+1)  Hardcoding the endpoint urls when performing HTTP requests
+2)  Not entirely removing unnecessary logs
